@@ -1,6 +1,7 @@
 # DocherHub Image Downloader
 
 It enables you to download archived docker images from dockerhub. 
+It might be useful when you want to chroot or stuff like that.
 
 ex.
 
@@ -31,6 +32,8 @@ It's running on IBM Cloud. Because the account used there is Lite, it might reac
 # Text to Binary
 
 It converts a given text to a character map drawn in designated characters.
+
+ex.
 
 ```
 $ curl "https://texttobinary.herokuapp.com/proxyart?bg=0&fg=1&size=10&text=JOBHUNTING"
