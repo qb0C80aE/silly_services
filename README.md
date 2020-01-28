@@ -5,6 +5,7 @@ It enables you to download archived docker images from dockerhub.
 ex.
 
 ```
+$ curl https://imgdl.mybluemix.net/ubuntu:latest > ubuntu.tgz
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100 24.6M    0 24.6M    0     0  24.1M      0 --:--:--  0:00:01 --:--:-- 24.2M
