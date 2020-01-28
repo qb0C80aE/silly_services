@@ -30,6 +30,8 @@ It's running on IBM Cloud. Because the account used there is Lite, it might reac
 
 # Text to Binary
 
+It converts a given text to a character map drawn in designated characters.
+
 ```
 $ curl "https://texttobinary.herokuapp.com/proxyart?bg=0&fg=1&size=10&text=JOBHUNTING"
 00000000000000000000000000000000000000000000000000
